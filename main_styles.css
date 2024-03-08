@@ -1,0 +1,14 @@
+header
+{
+    background-image: linear-gradient(right to left, lavender, lightblue);
+}
+
+label 
+{
+    background-color: darkorange;
+    color: lightgreen;
+}
+body
+{
+    background-color: bisque;
+}
